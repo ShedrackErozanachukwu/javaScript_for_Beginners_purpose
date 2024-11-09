@@ -1,0 +1,2 @@
+# javaScript_for_Beginners_purpose
+Insight Into JavaScript
